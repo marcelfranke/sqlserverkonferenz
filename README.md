@@ -4,4 +4,4 @@
 
 In this repository I share my talks and code from my sessions at the SQL Server Konferenz (https://sqlkonferenz.de)
 
-2019: Databricks meets PowerBI
+[2019](/sqlserverkonferenz/tree/master/2019): Databricks meets PowerBI
