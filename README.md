@@ -1,4 +1,4 @@
-<a href="https://sqlkonferenz.de/assets/images/content/default/PASS-og-image.jpg"></a>
+![alt text](https://sqlkonferenz.de/assets/images/content/default/PASS-og-image.jpg)
 
 # SQL Server Konferenz
 
