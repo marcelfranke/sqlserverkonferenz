@@ -4,6 +4,8 @@
 
 In this repository I share my talks and code from my sessions at the SQL Server Konferenz (https://sqlkonferenz.de)
 
+[2020](/2020): What's new in Azure Machine Learning?
+
 [2019](/2019): Databricks meets PowerBI
 
 [2018](/2018): From Zero to AI Hero - Let’s get started with AI
