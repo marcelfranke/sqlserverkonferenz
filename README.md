@@ -1,4 +1,4 @@
-![alt text](https://sqlkonferenz.de/assets/images/content/default/PASS-og-image.jpg)
+![alt text](https://sqlkonferenz.de/wp-content/uploads/2023/02/sql-konferenz-2023-web-header-single.png)
 
 # SQL Server Konferenz
 
