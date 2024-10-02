@@ -1,8 +1,10 @@
 ![alt text](https://sqlkonferenz.de/wp-content/uploads/2023/02/sql-konferenz-2023-web-header-single.png)
 
-# SQL Server Konferenz
+# SQL Konferenz
 
 In this repository I share my talks and code from my sessions at the SQL Server Konferenz (https://sqlkonferenz.de)
+
+[2024](/2024): Fabric and Databricks - better together
 
 [2023](/2023): Pre-Con: Introduction to Azure Databricks
 
