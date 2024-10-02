@@ -2,7 +2,7 @@
 
 # SQL Konferenz
 
-In this repository I share my talks and code from my sessions at the SQL Server Konferenz (https://sqlkonferenz.de)
+In this repository I share my talks and code from my sessions at the SQL Konferenz (https://sqlkonferenz.de)
 
 [2024](/2024): Fabric and Databricks - better together
 
